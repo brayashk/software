@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * 
  * @author dancye May 7, 2018
  * edited by yashkanwar singh brar
+ * some changes
  */
 public class Student 
 {
